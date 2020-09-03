@@ -11,7 +11,7 @@
 
 <hr>
 
-### Pleased to meet you 
+### Few things about me 
 
 - 🔭 I’m currently working on <b>MERN</b>
 - 🌱 I’m currently learning <b>Data Structures</b>
@@ -20,6 +20,8 @@
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
+
+<hr>
 
 ## Languages and Tools :
 
@@ -48,7 +50,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
 ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
 
-<hr>
 
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/><img height="30" src="https://forthebadge.com/images/badges/for-you.svg"/></p>
 
