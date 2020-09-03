@@ -43,10 +43,10 @@
 
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages [github-readme-stats]*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
+![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
 
-![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
-
-[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
+<hr>
 
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/><img height="30" src="https://forthebadge.com/images/badges/for-you.svg"/></p>
 
