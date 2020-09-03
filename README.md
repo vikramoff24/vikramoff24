@@ -9,7 +9,7 @@
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 
-
+<hr>
 
 ### Pleased to meet you 
 
