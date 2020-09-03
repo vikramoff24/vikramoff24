@@ -36,6 +36,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://sjardo.com/wp-content/uploads/2019/03/2000px-Sass_Logo_Color.svg_-1536x1152.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -43,13 +44,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 
-
-*NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages [github-readme-stats]*
+<hr>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
 ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
 
+
+*NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages [github-readme-stats]*
+
+<hr>
 
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/><img height="30" src="https://forthebadge.com/images/badges/for-you.svg"/></p>
 
