@@ -11,7 +11,8 @@
     <td><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-###A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.
+### A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.
+
 [![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vikramoff24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikramoff24/)](https://www.linkedin.com/in/vikramoff24/)
 
