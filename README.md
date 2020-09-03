@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Vikram</h1>
+<p align="center">
+<a href="https://twitter.com/vikram_off24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/vikram_off24" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vikramoff24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vikramoff24" height="30" width="30" /></a>
+<a href="https://www.facebook.com/vikramofficial24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikramofficial24" height="30" width="30" /></a>
+<a href="https://instagram.com/https://www.instagram.com/iam_vikram._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/iam_vikram._/" height="30" width="30" /></a>
+</p>
+<p align="center">[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)</p>
+
+<h3 align="center">Engineering student | Developer - Web, ML, UX | DSC Lead</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindh020" alt="aravindh020" /> </p>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://GitHub.com/vikramoff24/)
 <table>
   <tr>
@@ -6,12 +19,10 @@
   </tr>
 </table>
 
-### Hey, I'm Vikram!👋 
-
 A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-vikramoff24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikramoff24/)](https://www.linkedin.com/in/vikramoff24/)
-[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
+
  
 ### Pleased to meet you 
 
