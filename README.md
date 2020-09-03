@@ -6,13 +6,9 @@
 <a href="https://www.facebook.com/vikramofficial24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikramofficial24" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iam_vikram._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/iam_vikram._/" height="30" width="30" /></a>
 </p>
+<p align="center"><b>You are visitor</b></p>
+<p aligin="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 
-  <table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></td>
-  </tr>
-</table>
 
 
 ### Pleased to meet you 
