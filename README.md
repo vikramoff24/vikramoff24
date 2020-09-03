@@ -7,10 +7,7 @@
 <a href="https://instagram.com/https://www.instagram.com/iam_vikram._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/iam_vikram._/" height="30" width="30" /></a>
 </p>
 
-  [![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
-  
-
-<table>
+  <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></td>
@@ -18,9 +15,6 @@
 </table>
 
 
-[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
-
- 
 ### Pleased to meet you 
 
 - 🔭 I’m currently working on <b>MERN</b>
@@ -56,6 +50,8 @@
 
 ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
 
-<code><p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"></p></code>
+[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
+
+<p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/><img height="30" src="https://forthebadge.com/images/badges/for-you.svg"/></p>
 
 
