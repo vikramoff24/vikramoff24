@@ -6,9 +6,11 @@
 <a href="https://www.facebook.com/vikramofficial24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikramofficial24" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iam_vikram._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/iam_vikram._/" height="30" width="30" /></a>
 </p>
-
+<p align="center">
+  
   [![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
   
+  </p>
 <p align="center">
 <table>
   <tr>
@@ -18,7 +20,6 @@
 </table>
 </p>
 
-[![MAIL Badge](https://img.shields.io/badge/-vikramofficial24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikramofficial24@gmail.com)](mailto:vikramofficial24@gmail.com)
 
  
 ### Pleased to meet you 
