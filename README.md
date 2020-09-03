@@ -43,6 +43,6 @@ A third year undergrad at SRM IST. Actively learning and acquiring on demand ski
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective language [github-readme-stats]*
 
 ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vikramoff24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&layout=compact)](https://github.com/vikramoff24/github-readme-stats)
 
 
