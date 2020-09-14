@@ -1,3 +1,4 @@
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/1C8bHHJturSx2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2">via GIPHY</a></p>
 <h1 align="center">Hey 👋, I'm Vikram</h1>
 <p align="center">A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.</p>
 <p align="center">
