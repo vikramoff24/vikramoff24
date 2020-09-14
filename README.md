@@ -1,4 +1,5 @@
 
+<div align="center"><hr width=50% size=1% Align="center"></div>
 <h1 align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=50% width=50%/><div align="center"><hr width=50% size=1% Align="center"></div>Hey 👋, I'm Vikram</h1>
 <p align="center">A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.</p>
 <p align="center">
