@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋, I'm Vikram</h1>
 <p align="center">A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.</p>
-
-
-<div align="center"><hr width=50% size=1% Align="center"></div>
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
 <p align="center">
 <a href="https://twitter.com/vikram_off24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/vikram_off24" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/vikramoff24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vikramoff24" height="30" width="30" /></a>
 <a href="https://www.facebook.com/vikramofficial24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikramofficial24" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iam_vikram._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/iam_vikram._/" height="30" width="30" /></a>
 </p>
+
+<div align="center"><hr width=50% size=1% Align="center"></div>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
+
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 
