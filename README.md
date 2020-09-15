@@ -63,4 +63,8 @@
 
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/><img height="30" src="https://forthebadge.com/images/badges/for-you.svg"/></p>
 
+<a href="https://github.com/vikramoff24/KnowMe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramoff24&repo=KnowMe" />
+</a>
+
 
