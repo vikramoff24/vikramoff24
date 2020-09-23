@@ -62,6 +62,6 @@
 <hr>
 
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
-<hr style="border-top: dotted 1px;" />
+<div align="center"><hr width=10% size=1% Align="center"></div>
 
 
