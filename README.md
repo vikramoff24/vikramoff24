@@ -1,4 +1,4 @@
-<p align="center"><img height="40" width="250" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
+<p align="center"><img height="35" width="230" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
 
 
 <h1 align="center">Hey 👋, I'm Vikram</h1>
