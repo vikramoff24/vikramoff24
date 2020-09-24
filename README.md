@@ -1,3 +1,6 @@
+<p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
+<div align="center"><hr width=13%></div>
+
 <h1 align="center">Hey 👋, I'm Vikram</h1>
 <p align="center">A third year undergrad at SRM IST. Actively learning and acquiring on demand skills.</p>
 <p align="center">
