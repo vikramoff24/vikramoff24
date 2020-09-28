@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on <b>MERN Stack Projects</b>
 - 🤔 I’m looking for help with <b>Algorithms</b>
 - 💬 Ask me about <b>Anything</b>
-- 😄 Pronouns:<b>He/him</b>
+- 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
 
 <hr>
