@@ -14,7 +14,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 
 <hr>
-
 ### Few things about me 
 
 - 🔭 I’m currently working on <b>PERN</b>
@@ -24,12 +23,8 @@
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
-
 <hr>
-
 ## Languages and Tools :
-
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img align="left" alt="Node.js" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" /></code><code><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -48,13 +43,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
-
 <hr>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
 ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
-
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
 
