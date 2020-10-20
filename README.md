@@ -13,6 +13,7 @@
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 <hr>
+
 ### Few things about me 
 
 - 🔭 I’m currently working on <b>PERN</b>
@@ -23,6 +24,7 @@
 - 😄 Pronouns: <b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
 <hr>
+
 ## Languages and Tools :
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
