@@ -47,9 +47,12 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
 <hr>
-
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
  ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
+ 
+ </div>
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
 <div align="center">
