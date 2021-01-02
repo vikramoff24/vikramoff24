@@ -61,11 +61,11 @@
 
 <div align="center">
   *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
- <div align="center"><hr width=35%></div>
+ <div align="center"><hr width=70%></div>
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vikramoff24)
 
-<hr>
+<div align="center"><hr width=70%></div>
 </div>
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
 <div align="center"><hr width=13%></div>
