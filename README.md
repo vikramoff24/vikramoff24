@@ -52,9 +52,10 @@
  ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
+<p align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vikramoff24)
 <hr>
-
+</p>
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
 <div align="center"><hr width=13%></div>
 
