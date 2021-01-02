@@ -57,9 +57,9 @@
  
  </div>
 
-*NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
+
 <div align="center">
-  
+  *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vikramoff24)
 
 <hr>
