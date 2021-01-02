@@ -57,7 +57,7 @@
  ![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
  
  </div>
- <div align="center"><hr width=43%></div>
+ <div align="center"><hr width=47%></div>
 
 <div align="center">
   *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
