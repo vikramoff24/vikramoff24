@@ -53,7 +53,9 @@
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
 <div align="center">
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vikramoff24)
+
 <hr>
 </div>
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
